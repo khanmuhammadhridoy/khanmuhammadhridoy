@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there👋, I'm Hridoy Khan</h1>
 <h3 align="center">A passionate React developer from Bangladesh .</h3>
 
