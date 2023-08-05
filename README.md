@@ -25,7 +25,7 @@
 
 <!-- - 😄 Pronouns: ... -->
 
-- ⚡ Fun fact **I love ...**
+<!-- - ⚡ Fun fact **I love ...** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
