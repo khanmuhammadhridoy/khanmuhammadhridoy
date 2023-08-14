@@ -3,6 +3,9 @@
 
 <!-- <h3 align="center">A passionate developer from Bangladesh.</h3> -->
 
+
+<p align="center"><img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coder GIF" width="500"></p>
+
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500"></p>
 
 <!--<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></p>-->
